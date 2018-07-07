@@ -1,6 +1,4 @@
 # newRepo
 create new repo
 print("hello-World")
-hhhhhhhhvdhjfvshjdvfchjsdvhjdh
-
-ksncjdsbvcjdsb
+Thank you for help me to be more profeissional 
